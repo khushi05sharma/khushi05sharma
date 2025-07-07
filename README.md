@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">Frontend Developer from India blending creativity, clarity, and cute design into every project. 🌷</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.redd.it/9oscvc3mten81.gif">
+<img align="right" alt="coding" width="250" src="https://gifdb.com/images/high/azure-lane-cute-anime-typing-fast-bctubdjt5d0eikl8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi05sharma&label=Profile%20views&color=0e75b6&style=flat" alt="khushi05sharma" /> </p>
 
