@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
-<h3 align="center">Frontend Developer from India blending creativity, clarity, and cute design into every project. 🌷</h3>
+<h3 align="center">Frontend Developer from India blending creativity, clarity, and cute design into every project. 🌷 <br>
+  🎯 Open to frontend internships & UI-focused dev roles
+</h3>
 
 <img align="right" alt="coding" width="250" src="https://gifdb.com/images/high/azure-lane-cute-anime-typing-fast-bctubdjt5d0eikl8.gif">
 
