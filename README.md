@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **javascript,react**
 
-- 📫 How to reach me **5103.sharmakhushi@gmail.com**
+- 📫 How to reach me **khushisharma.50031@gmail.com**
 
 - ⚡ Fun fact **I think soft shadows, rounded corners, and pastel gradients can save the world. 🎀**
 
