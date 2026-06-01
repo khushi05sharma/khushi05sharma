@@ -15,7 +15,7 @@
 
 - My Portfolio [https://khushi05sharma.github.io/Personal-Portfolio/](https://khushi05sharma.github.io/Personal-Portfolio/)
 
-- My Resume [https://drive.google.com/file/d/1NX7Ez-j_7E0JCa7N7Z-lIWWioRUEgzsG/view?usp=sharing](https://drive.google.com/file/d/1NX7Ez-j_7E0JCa7N7Z-lIWWioRUEgzsG/view?usp=sharing)
+- My Resume [https://drive.google.com/file/d/1UB6zKOw7Nr76bhLvNdft96oiZhUxJjqJ/view?usp=sharing](https://drive.google.com/file/d/1UB6zKOw7Nr76bhLvNdft96oiZhUxJjqJ/view?usp=sharing)
 
 - ⚡ Fun fact **☕ Probably turning another Figma design into React components right now.✨**
 
