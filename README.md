@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
-<h3 align="center">MERN Stack Developer from India passionate about building responsive web applications with clean code, polished UI, and thoughtful user experiences 💻✨</h3>
+<h3 align="center">Full Stack Developer from India passionate about building responsive web applications with clean code, polished UI, and thoughtful user experiences 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi05sharma&label=Profile%20views&color=0e75b6&style=flat" alt="khushi05sharma" /> </p>
 
-- 🌱 Currently learning and building with the **MERN Stack**
+- 🌱 Currently learning and building with the **Full Stack**
 
 - 💻 Focused on React.js, TypeScript, responsive UI development, and API integration
 
